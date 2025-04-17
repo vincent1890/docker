@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/PAPAMICA/docker-compose-collection/master/templates-portainer.json
+https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
+https://raw.githubusercontent.com/portainer/templates/v3/templates.json
